@@ -1,0 +1,10 @@
+numpy
+pandas
+scikit-learn
+pyradiomics
+tensorflow==2.6.0
+keras
+matplotlib
+seaborn
+opencv-python
+SimpleITK
